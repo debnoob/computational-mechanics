@@ -1,4 +1,4 @@
-# Computational Physics
+# Computational Mechanics
 Here you'll find a sampling of my computational mechanics labs (pair-programmed in Grinnell College Computational Physics lab) as well as assorted snippets and side projects. Most of the code is in Python, and written using [Jupyter Notebook](https://jupyter.org/).
 
 ## Play with Jupyter files
